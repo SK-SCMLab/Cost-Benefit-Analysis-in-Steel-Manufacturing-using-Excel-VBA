@@ -32,5 +32,12 @@ At each phase in the pilot:-
 flowchart TD;
 A[Post-improvement data] <--> |Paired t-test for one week| B[Pre-improvement data];
 ```
+The paired t-test should check
 
+```mermaid
+flowchart TD;
+A[Has x̄ changed significantly] --> |Yes| B[Has output variable performance changed] --> |Yes| C[Commence next piloting phase] --> |A month after full implementation| D[Is the change effective? Revalidate with a paired t-test];
+```
+
+---
 
