@@ -78,7 +78,6 @@ In a Steel Manufacturing setup,
 |Implementation Time|15|0.15|
 |Payback speed|25|0.25|
 |Environmental Impact|10|0.1|
-|--------------------|---|----|
 |**Total**|**100**|**1.00**|
 
 **Step 3**: Validate through stakeholders
