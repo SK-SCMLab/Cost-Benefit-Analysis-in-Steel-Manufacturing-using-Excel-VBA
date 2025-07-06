@@ -28,4 +28,9 @@ Piloting is a technique for deploying solution or change in small teams or group
 ### Pilot Validation
 At each phase in the pilot:-
 
+```mermaid
+flowchart TD;
+A[Post-improvement data] <--> |Paired t-test for one week| B[Pre-improvement data];
+```
+
 
